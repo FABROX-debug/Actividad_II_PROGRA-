@@ -1,0 +1,153 @@
+(Transcrito por TurboScribe. Actualizar a Ilimitado para eliminar este mensaje.)
+
+Uno de los trabajos que acá los estoy presentando está por acá. Vamos a cerrar esto por acá. Vamos a cerrar esto de acá también, claro, porque este ya fue uno de los recursos, como les digo.
+
+Chicos, que es también que cerrar eso. Es esto, la tarea. Hice acá trabaja de aplicación número 1. Eso creo, ese fue el primero.
+
+Pero era en disco, como les digo. Entonces, usted tenía un dataseo, una matriz, etcétera. Entonces, mujer de pendencia.
+
+A ver, ¿cuál es la correlación? Es mujer de pendencia. Final, lo que yo quiero es proceso. Chicos, lo que yo quiero es proceso.
+
+Si quieren un humelo, un telónoseo. Yo lo que quiero es que haya un proceso más o menos y dice una versión secuencial. Viene lo que hice acá.
+
+Voy a subrayarlo. Procesar en disco, no en memoria. Entonces, bueno, acá lo hice en memoria.
+
+Para demostrarles que acá me salió un error de... Un error de que fuera de memoria, pero no puedo colocar más datos. Ese fue uno de los trabajos que ustedes tenían que hacer. Con hilo, es una promoción con hilo, nada más.
+
+Ese es uno. ¿El otro trabajo, señorita, hola? Sí, pero... Es acá, lo que pasa es que yo le he colocado... Esa piramita que está acá, voy a subirlo de una vez, ya. Espero que me olviden.
+
+Creo que lo voy a colocar acá porque está incompleto. Como fin completo. Sí, voy a colocarlo acá.
+
+O sea, este código. Que está acá. Esto.
+
+Está acá. Y después de ahí vamos. Ahí la cuesta.
+
+Y vamos a ver cómo lo... Lo mapeamos. ¿Qué pasa? Usted está en otro nivel, chicle. Yo lo respeto mucho a ustedes porque usted está en otro nivel.
+
+Está en otra empresa. Yo respeto mucho al alumno que está fuera. Porque él está ya pues con otro... Tengo otros datos en otro nivel.
+
+Entonces, no hay la misma ganas de un chico del octavo ciclo que un cachimbo. El cachimbo siempre está ahí. Entonces, por eso digo... A veces yo los observo, captar la atención también es un poquito complicado.
+
+Y soy tolerante, pero siempre como una reflexión, ¿no? Acá estoy copiando el código, ¿eh? Ahí está su código. El borrador, porque está incompleto. Está incompletorita.
+
+Pero no se olviden... No te olvides, señorita. No te olvides que acá tú tienes un hilo. Y bajo ese... En ese hilo tú has definido acá dos hilos.
+
+Este hilo, el de acá creo, ¿verdad? Dos hilos. Entonces, no pierdan esa noción, por favor. Porque este hilo es un hilo de primer nivel, al igual que este hilo que está por acá.
+
+Claro que no es un arriba, creo, o sea, ¿no? Al igual que este hilo. Son hilos de un nivel superior. Estos son hijos de algo.
+
+Sí, bueno, ahí lo dejo. En el caso del trabajo que habíamos hablado, ustedes tienen que programar el time-sharing, algo que se acabe. El trabajo del... Yo te voy a explicar.
+
+Más o menos tiene este mapeón. Yocelyn. Yocelyn, yo tengo estos programas que están acá en el sistema operativo.
+
+Acá están los procesos, por ejemplo, que yo tengo. Todos los procesos tienen un nombre. Tienen esto un identificador.
+
+Es un código. Es un proceso ID, ¿no? Y tienen esto el mapa de memoria que el espacio preocupa en el muere. Pero básicamente tienen un tamaño.
+
+Tienen un estado. Eso habíamos hablado. Entonces, como los procesos están llegando, imagínate que son personas que están en el banco.
+
+Hay personas que tienen prioridad, personas de la terceredad, etcétera. Persona depende con alguna discapacidad. Entonces, se le da preferencia.
+
+Igualito, los procesos... hemos llegado a nosotros a la conclusión que los procesos basados en el tamaño van a tener su prioridad. El tamaño. Mientras más grandes hay que dar más más.
+
+Entonces, la idea es que estuvo a tiendas. Por ejemplo, ese proceso necesita ser cargado en memoria y de ahí ser ejecutado en el procesador. Y para eso ustedes van a utilizar directivas.
+
+Nosotros acá tengo un proceso. Bueno, este es el proceso de... acá tengo cuatro ventanas. Si no, cuatro ventanas.
+
+Es posible que varios programas ejecuten de manera concurrente, ¿no? Cuatro poramas. En tu máquina tienes diez poramas, veinte programas que se están ejecutando de manera concurrente. En mi máquina, mira cuánto procesos están ejecutando.
+
+Mira cuánto procesos hay. Cuánto procesos están ejecutando acá. Y mi máquina solamente tiene cuatro núcleos, nada más, ¿no? Cuatro núcleos, cuatro coros.
+
+Entonces, ¿cómo es posible eso? En realidad, siempre hay multiprocesos. Pero en el caso de nosotros, vamos a asumir esto. Un procesador y varios... tareas, procesos.
+
+¿Cómo los atenderías tú, eso? Yoselin. ¿Cómo un cajero en el banco, un cajero? No más estamos hablando de ventanilla, un solo cajero. Está tendiendo a las personas que están llegando.
+
+Pero imagínate que el sistema operativo, en este caso, ese gestor, él va a dividir el proceso como está acá. Él lo va a dividir. Veis acá como está más o menos, no sé si se visualiza.
+
+¿Se puede visualizar o no? Sí, se ve, profesor. Él lo va a dividir. ¿Cómo es un solo proceso para que vea la sensación que todos están siendo atendidos? Entonces, él lo divide.
+
+Porque los procesos originales están acá. Mira la tarea 1. La tarea 2, el proceso 2 es muy grande. Acuerdan de que tarea el proceso por ahora mismo.
+
+Entonces, mira, sé lo acá. Él divide, le da una porción, lo ejecute y cuando ya ha terminado su espacio sus 20 milisegundos, sus 50 milisegundos lo saca y carga otro proceso. Está haciendo una partecita de cada uno.
+
+De manera como tal. ¿Es paralelo? No es paralelo. Paralelo necesita dos servidores, por lo menos.
+
+Él es concurrente, como el ser humano. No capta esas frecuencias bajísimas. Entonces, al ser humano le da esa sensación que todos esos procesos están ejecutando al mismo tiempo.
+
+En realidad, hay una es todo. Hay una división del tiempo. Hay una división.
+
+Hay una multiplicación del tiempo, como se dice. El tiempo está multiplicado. Está separado acá.
+
+Es obvio que el rojo es más ancho porque lo han dado más proceso. En cambio, el verdecito que está acá lo han dado poco tiempo. Lo han dado 5 milisegundos.
+
+La marión 5 milisegundos. La marión lo han dado y inicio, tal vez 20, ¿no? Entonces, ¿por qué? Porque el rojo es el más grande, pues, ¿no? El rojo es el más largo, tal y por eso. Entonces, queremos que entre un proceso lo visualicen.
+
+Pasó su tiempo y automáticamente entra otro proceso. Una especie de simulador. Lo habíamos hablado en el aula, eso yo sé.
+
+Sí. Solo que algunos de rectificación no han escuchado. Ahora, de manera presencial, puedo explicar mejor que les explique de manera presencial para que vean cómo lo hagan.
+
+Pero les dije que utilicen cualquier recurso utilicen. Al final, es un recurso que ustedes concieren. Utilicen cualquier recurso.
+
+De contexto, libres. Ya no le estoy diciendo como tal. Hágalo, de repente, utilicen lla, no sé.
+
+No decía la lla, alizar, no. Pero no se compliquen. Es simplemente hacer un diseño.
+
+Como si fuera un juego, un simulador, eso sí. Los procesos están entrando los procesos. Yo pondría una pantalla de los procesos que están entrando.
+
+Un proceso entro se cargue en la memoria. Hago en algún programa, pues sea más grande que otro. Y el proceso ahorita le resultaba más doble, como que ya me lleno la memoria.
+
+El proceso le ejecuta y pongo un temporizador ahí. De acuerdo al dato que ellos tienen. Y ya pues.
+
+Entonces, por acá creo que esto colegó un trabajo más que creo ahora eso. Claro, esto era del oficil. Acá creo que está mejor, ¿no? Acá están las propiedades por que tiene su identificador, su nombre, cuántos bytes tiene, ¿no? El tamaño de memoria.
+
+Son los estados que tienen ejecución. Está ahí estado listo. Y ya pues, ¿no? Tu prioridad, ¿no? Póngale ¿Cuánto le vas a dar ese proceso? Creo que hice por acá con estos chicos.
+
+Creo que hice esto, un algoritmo por acá, no lo sé. Pueden contarles con otros chicos de acá. ¿Dónde quieren hacer unos sistemas operativos en verdad? El estimulador.
+
+Creo que es por acá. Vamos a conocer eso. Tengo un regrodito a los chicos los sábados.
+
+Creo que acá está bueno. Por eso unos algoritmos, por ejemplo, para aquellos. ¿Cómo? Asignar prioridad.
+
+A ver, ¿qué has hecho de acá? Lo puedo ayudar a ver. Asignar prioridad es alta, lisa. La lista de tareas.
+
+Esto lo voy a copiar a ustedes. Es simple. O sea, no hay que no hay que esto.
+
+Ómelo como algo, como algo, eso. Si usted va acá terminando el libro, el libro no hay estas cosas, chicos. Tiene esas cosas a los de ustedes mismos.
+
+Permítanme copiarlo acá. Acá lo voy a copiar, ¿eh? Donde está arriba su trabajo, más arriba. Acá lo voy a colocar.
+
+Acá no. Acá lo hice lo siguiente. A ver, vamos a asignar una prioridad.
+
+Cuando las personas están llegando al banco, esto, bueno, cuando llegan los procesos, chicos, yo esto detecto en ese momento de la lista de procesos que yo tengo, ¿cuál es el programa más pequeño y el programa más grande? Entonces, y en función de ello, esto lo cuantifico en terciles. Si quiere, póngale. Un rango, pues lo divido en tres partes.
+
+Imagínate que el más chiquito es el 10 y el más grande es el 920. Lo participo en el 90, menos 10, 183, tal. Del 10 al... más o menos del 10 al 25.
+
+¿Cómo? Del 10 al 30. Del 10 al 50. Y del 50 al 70, supongamos, de aquí es el máximo.
+
+Entonces, lo que están en cada segmento, 1, 2 y 3. Pequeño, mediano, grande. Todos los que son grandes tienen 3. Los medianos tienen 2, los otros tienen 1. Lo multiplico por 10. Por perdón, por 100.
+
+Milisegundos. Ya tengo la cuota para cada proceso. Pero ¿qué pasaría si en ese momento la lista llega? Otros programas están llegando.
+
+Llegó un programa bien grande. Mucho grande. Entonces, ese programa que valía el 70 se convierte en pequeño, chicos.
+
+Lo que significa que la prioridad puede variar. Y acá sabe. Así no más un algoritmo.
+
+El... ¿Ya chicos? ¿Toma de acuerdo? O si quieren apoyo, mejor la próxima semana. Ya. Yo se nico más calma.
+
+Ya, profesor, está ahí. Ya. Con calma.
+
+Pero no se vayan esto. Acá lo se dividió entre 3. Por ejemplo, acá yo busco acá. El ahí el beso, los mínimos creo me parecen.
+
+El tamaño. Claro, acá está el tamaño. pues, el TL es la lista, ¿no? Time list, no, no, tax list sería, ¿no? TL es la lista de tareas, tax list va a poner TL mejor, TL, tax list, ahora no. 
+
+Él viene por acá, un algoritmo de, el mínimo máximo, facilito, una lógica de rastre acá, ¿sabes? Acá él calcula el A que es el mínimo y él calcula acá el máximo. Listo, ya tengo la y él ve que es el máximo y el mínimo. Entonces él divide entre tres, ese ahí ve lo divide entre tres, porque recuerda que es el tamaño, es el tamaño, ahí es el tamaño máximo y ahí es el tamaño mínimo y ahí es el tamaño máximo. 
+
+Ahí, ¿sabes? Facilito, ya logró esto, por ponerlo en tercieles. Entonces, entonces tengo el A, el A más 1, más H, alama 2 H, acá está, pues ahí está esto, está como la manesón, está segmentado, parcelizado, como yo digo, ¿no? En tercieles ahí saben. Entonces ellos van a tener la prioridad 1 que tengo en esta rango, etcétera, etcétera, prioridad 1, prioridad 2, prioridad 3. Ya no tiene tiempo, pero puede ser que en esa momento lleguen más, otro proceso. 
+
+Entonces ya esto ya no me sirve y se va actualizando, ¿ven? Ahí lo tienen. No hay que complicarlo. Chicos, ahí más quedamos por favor, ¿ya? No, bien, siempre gracias por el apoyo, chicos, por su participación. 
+
+Que tengan buen fin de semana. Tomen sus previsiones para las elecciones, porque todo es movido. El país ahorita es todo, está de cabeza. 
+
+Más importante la vida, ¿ya? Por un celular no pierdan la vida, chicos, ya, por favor, les exhorto, ya. No sé, los tiempos ahora son muy complicados. A un momento dejen controlen sus empleos.
+
+(Transcrito por TurboScribe. Actualizar a Ilimitado para eliminar este mensaje.)
